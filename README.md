@@ -78,5 +78,3 @@ Guidelines for contributing to the project.
 
 ## Contact
 Sneha Bandla- [snehareddy2025@gmail.com](mailto:snehareddy2025@gmail.com)
-
-Project Link: [https://github.com/SnehaReddy2025/venhan-ecom-.git](https://github.com/SnehaReddy2025/venhan-ecom-.git)
