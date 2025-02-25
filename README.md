@@ -75,10 +75,8 @@ Guidelines for contributing to the project.
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Your Name - [snehareddy2025@gmail.com](mailto:snehareddy2025@gmail.com)
+Sneha Bandla- [snehareddy2025@gmail.com](mailto:snehareddy2025@gmail.com)
 
 Project Link: [https://github.com/SnehaReddy2025/venhan-ecom-.git](https://github.com/SnehaReddy2025/venhan-ecom-.git)
